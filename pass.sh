@@ -45,3 +45,4 @@ while true; do
     esac
 done
 
+#プルリクエストようの付け足しコメントです。
